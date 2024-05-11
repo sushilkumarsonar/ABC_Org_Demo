@@ -1,7 +1,7 @@
 # join_strings.py
 
 string1 = "my"
-string2 = "work"
+string2 = "assignment is complete"
 
 joined_string = string1 +string2
 
